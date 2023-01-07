@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulrollo
-- 🌍 Edinburgh, Scotland
+- 🌍 I'm based in Edinburgh, Scotland
 
 <!---
 paulrollo/paulrollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
