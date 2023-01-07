@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paulrollo
+- 👋 Hi, I’m Paul
 - 🌍 I'm based in Edinburgh, Scotland
 
 <!---
