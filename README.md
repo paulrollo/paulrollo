@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Paul
 - 🌍 Edinburgh, Scotland
+- 🧑‍ Tech SEO
+- 🧑‍💻 Lokub
 
 <!---
 paulrollo/paulrollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
