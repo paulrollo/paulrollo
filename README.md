@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul
 - 🌍 Edinburgh, Scotland
-- 🧑‍ Tech SEO
+- 🧑‍ Tech & Ecommerce SEO
 - 🧑‍💻 Lokub
 
 <!---
