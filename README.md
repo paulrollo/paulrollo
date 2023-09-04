@@ -1,6 +1,6 @@
 - 👋 I’m Paul
 - 🌍 Edinburgh, Scotland
-- 👷 Tech & Ecommerce SEO, Dev
+- 👷 Tech & Ecommerce SEO, Web Developer
 - 🧑‍💻 Lokub
 
 <!---
