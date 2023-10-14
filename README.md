@@ -1,7 +1,7 @@
 - 👋 I’m Paul
 - 🌍 Edinburgh, Scotland
-- 👷 Tech & Ecommerce SEO, Web Developer
-- 🧑‍💻 Lokub
+- 👷 Tech & Ecommerce SEO, Developer
+- 🧑‍💻 slowly building Lokub
 
 <!---
 paulrollo/paulrollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
